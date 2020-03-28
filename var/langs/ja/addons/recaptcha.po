@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.11.3/addons/recaptcha.po\n"
+"PO-Revision-Date: 2020-01-29 15:01\n"
+
+msgctxt "Addons::name::recaptcha"
+msgid "Google reCAPTCHA"
+msgstr ""
+
+msgctxt "Addons::description::recaptcha"
+msgid "Adds the support of Google reCAPTCHA to protect your store against bots"
+msgstr "ボットからショップを保護する Google reCAPTCHA を導入します"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_theme"
+msgid "Theme"
+msgstr "テーマ"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_theme::light"
+msgid "Light"
+msgstr "ライト"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_theme::dark"
+msgid "Dark"
+msgstr "ダーク"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_size"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_size::normal"
+msgid "Normal"
+msgstr "普通"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_size::compact"
+msgid "Compact"
+msgstr "コンパクト"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_type"
+msgid "Type"
+msgstr "タイプ"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_type::image"
+msgid "Image"
+msgstr "画像"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_type::audio"
+msgid "Audio"
+msgstr "音声"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_site_key"
+msgid "Site key"
+msgstr "サイトキー"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_secret"
+msgid "Secret"
+msgstr "シークレットキー"
+
+msgctxt "SettingsSections::recaptcha::general"
+msgid "General"
+msgstr "一般"
+
+msgctxt "SettingsSections::recaptcha::forbidden_countries"
+msgid "Excluded countries"
+msgstr "除外国"
+
+msgctxt "SettingsOptions::recaptcha::forbidden_countries"
+msgid "Excluded countries"
+msgstr "除外国"
+
+msgctxt "Languages::error_validator_recaptcha"
+msgid "Please confirm you are not a robot."
+msgstr "ボットでないことを証明してください。"
+
+msgctxt "Languages::recaptcha_settings_notice"
+msgid "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/docs/start\">here</a></b>.</p>"
+msgstr "<b>サイトキー</b> と <b>シークレットキー</b> の取得方法は <b><a target=\"_blank\" href=\"http://www.google.com/recaptcha/admin\">こちら</a></b> を参照してください。"
+
+msgctxt "Languages::recaptcha.text_settings_notice"
+msgid "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/intro\">here</a></b>.<br>Please note that the add-on currently supports only <b>reCAPTCHA v2: Checkbox</b></p>"
+msgstr "<p><b>サイトキー</b> と <b>シークレットキー</b> の取得方法は <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/intro\">こちら</a></b> を参照してください。<br>アドオンは現在 <b>reCAPTCHA v2: チェックボックス</b> のみサポートしています。</P>"
+
+msgctxt "Languages::recaptcha.text_forbidden_countries_notice"
+msgid "<p>Google reCAPTACHA will be disabled for the selected countries. Instead, visitors from those countries will be asked to type a few symbols they see on the screen.</p>"
+msgstr "<p>選択した国において Google reCAPTACHA は無効となります。その代わりに、これらの国からの訪問者は画面に表示された文字を入力する必要があります。</p>"
+

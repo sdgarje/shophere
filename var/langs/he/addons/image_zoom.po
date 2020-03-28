@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.11.3/addons/image_zoom.po\n"
+"PO-Revision-Date: 2020-02-04 07:12\n"
+
+msgctxt "Addons::name::image_zoom"
+msgid "Image zoom"
+msgstr "הגדל תמונה"
+
+msgctxt "Addons::description::image_zoom"
+msgid "Shows zoomed image on product image hover"
+msgstr "מראה תמונה מוגדלת בעת מעבר על תמונת המוצר"
+
+msgctxt "SettingsSections::image_zoom::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::image_zoom::cz_animation_time"
+msgid "Animation time"
+msgstr "זמן אנימציה"
+
+msgctxt "SettingsOptions::image_zoom::cz_zoom_position"
+msgid "Zoom position"
+msgstr "מיקום הזום"
+
+msgctxt "SettingsTooltips::image_zoom::cz_animation_time"
+msgid "Duration of the animation effects in milliseconds."
+msgstr "משך אפקטי ההנפשה באלפיות שניה."
+
+msgctxt "SettingsTooltips::image_zoom::cz_zoom_position"
+msgid "Specifies position of zoom window. The position is relative to image as shown by the following key (blue squares represent zoom window). <br /><br /><img src=\"design/backend/media/images/addons/image_zoom/zoom-positions.png\" />"
+msgstr "מציין מיקום של חלון הזום. המיקום יחסית לתמונה כפי שמוצג על ידי המפתח הבא (ריבועים כחולים מייצגים את חלון הזום). <br /><br /><img src=\"design/backend/media/images/addons/image_zoom/zoom-positions.png\" />"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::0"
+msgid "Zoom position №0"
+msgstr "מיקום הזום  №0"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::1"
+msgid "Zoom position №1"
+msgstr "מיקום הזום  №1"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::2"
+msgid "Zoom position №2"
+msgstr "מיקום הזום  №2"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::3"
+msgid "Zoom position №3"
+msgstr "מיקום הזום  №3"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::4"
+msgid "Zoom position №4"
+msgstr "מיקום הזום  №4"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::5"
+msgid "Zoom position №5"
+msgstr "מיקום הזום  №5"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::6"
+msgid "Zoom position №6"
+msgstr "מיקום הזום  №6"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::7"
+msgid "Zoom position №7"
+msgstr "מיקום הזום  №7"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::8"
+msgid "Zoom position №8"
+msgstr "מיקום הזום  №8"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::9"
+msgid "Zoom position №9"
+msgstr "מיקום הזום  №9"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::10"
+msgid "Zoom position №10"
+msgstr "מיקום הזום  №10"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::11"
+msgid "Zoom position №11"
+msgstr "מיקום הזום  №11"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::12"
+msgid "Zoom position №12"
+msgstr "מיקום הזום  №12"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::13"
+msgid "Zoom position №13"
+msgstr "מיקום הזום  №13"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::14"
+msgid "Zoom position №14"
+msgstr "מיקום הזום  №14"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::15"
+msgid "Zoom position №15"
+msgstr "מיקום הזום  №15"
+
+msgctxt "Languages::image_zoom.rework_update_notification.title"
+msgid "Image Zoom add-on reworked"
+msgstr "עיבוד מחדש של תוסף זום של התמונות"
+
+msgctxt "Languages::image_zoom.rework_update_notification.message"
+msgid "<p>We reworked the <b>Image zoom</b> add-on, because it used a third-party solution incompatible with modern versions of jQuery. As a result of the rework, some settings of the add-on were removed.</p><p>Please check how the image zoom looks on the product pages now. If you'd like to make any changes to the looks, adjust the settings of the <b>Image zoom</b> add-on.</p><p><a href=\"[image_zoom_settings]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Check Image Zoom settings</a></p>"
+msgstr "<p>אנו עיבדנו מחדש את  <b>Image zoom</b> התוסף מאחר שהיה בו פתרון של צד שלישי שאינו תואם  לגרסאות המודרניות של jQuery. כתוצאה מהשינוי חלק מהגדרות של התוסף הוסרו. </p><p>בדוק כיצד זום על התמונות נראה בעמודי המוצרים כעת. אם תרצה לבצע שינויים כלשהם למראה, שנה את ההגדרת של <b>זום של התמונות</b> add-on.</p><p><a href=\"[image_zoom_settings]\" target=\"_blank\" class=\"btn btn-large btn-primary\">בדוק הגדרות זום של התמונות</a></p>"
+

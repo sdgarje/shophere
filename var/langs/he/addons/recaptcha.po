@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.11.3/addons/recaptcha.po\n"
+"PO-Revision-Date: 2020-02-04 07:12\n"
+
+msgctxt "Addons::name::recaptcha"
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+msgctxt "Addons::description::recaptcha"
+msgid "Adds the support of Google reCAPTCHA to protect your store against bots"
+msgstr "מוסיף תמיכה של Google reCAPTCHA כדי להגן על החנות שלך נגד בוטים"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_theme"
+msgid "Theme"
+msgstr "נושא"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_theme::light"
+msgid "Light"
+msgstr "בהיר"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_theme::dark"
+msgid "Dark"
+msgstr "כהה"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_size"
+msgid "Size"
+msgstr "גודל"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_size::normal"
+msgid "Normal"
+msgstr "נורמלי"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_size::compact"
+msgid "Compact"
+msgstr "קומפקטי"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_type"
+msgid "Type"
+msgstr "סוג"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_type::image"
+msgid "Image"
+msgstr "תמונה"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_type::audio"
+msgid "Audio"
+msgstr "אודיו"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_site_key"
+msgid "Site key"
+msgstr "מפתח אתר"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_secret"
+msgid "Secret"
+msgstr "סודי"
+
+msgctxt "SettingsSections::recaptcha::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsSections::recaptcha::forbidden_countries"
+msgid "Excluded countries"
+msgstr "מדינות שאינן כלולות"
+
+msgctxt "SettingsOptions::recaptcha::forbidden_countries"
+msgid "Excluded countries"
+msgstr "מדינות שאינן כלולות"
+
+msgctxt "Languages::error_validator_recaptcha"
+msgid "Please confirm you are not a robot."
+msgstr "אשר שאתה לא רובוט"
+
+msgctxt "Languages::recaptcha_settings_notice"
+msgid "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/docs/start\">here</a></b>.</p>"
+msgstr "<p>הוראות כיצד לקבל את<b>site key</b> <b>וסודי</b>נמצאות<b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/docs/start\">כאן</a></b>.</p>"
+
+msgctxt "Languages::recaptcha.text_settings_notice"
+msgid "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/intro\">here</a></b>.<br>Please note that the add-on currently supports only <b>reCAPTCHA v2: Checkbox</b></p>"
+msgstr "<p>הוראות כיצד לקבל את <b>site key</b> <b>סודי</b> נמצאות <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/intro\">כאן</a></b>.<br>שימו לב שתוסף זה תומך רק ב <b>reCAPTCHA v2: Checkbox</b></p>"
+
+msgctxt "Languages::recaptcha.text_forbidden_countries_notice"
+msgid "<p>Google reCAPTACHA will be disabled for the selected countries. Instead, visitors from those countries will be asked to type a few symbols they see on the screen.</p>"
+msgstr "<p>Google reCAPTACHA לא תפעל עבור מדינות נבחרות. במקום, המבקרים ממדינות אלה יתבקשו להקליד מספר סימנים שהם רואים על המסך.</p>"
+

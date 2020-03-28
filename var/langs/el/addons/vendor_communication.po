@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.11.3/addons/vendor_communication.po\n"
+"PO-Revision-Date: 2020-01-29 14:57\n"
+
+msgctxt "Addons::name::vendor_communication"
+msgid "Ask seller a question"
+msgstr ""
+
+msgctxt "Addons::description::vendor_communication"
+msgid "Allows customers to ask questions about a product directly from the product page. Seller replies to these questions in the built-in Message Center."
+msgstr ""
+
+msgctxt "SettingsSections::vendor_communication::general"
+msgid "General"
+msgstr "Γενικά"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_product"
+msgid "Contact button on product pages"
+msgstr "Κουμπί επαφής στις σελίδες προϊόντων"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_vendor"
+msgid "Contact button in vendor microstore"
+msgstr "Κουμπί επαφής στο microstore πωλητη"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_messages"
+msgid "Contact button at \"Messages\" menu"
+msgstr ""
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_product"
+msgid "Show the \"Ask a question\" button on product pages."
+msgstr ""
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_vendor"
+msgid "Show the \"Ask a question\" button in vendors' microstores."
+msgstr ""
+
+msgctxt "Languages::vendor_communication.messages"
+msgid "Messages"
+msgstr "Μηνύματα"
+
+msgctxt "Languages::vendor_communication.message_center"
+msgid "Message center"
+msgstr "Κεντρο Μηνυματων"
+
+msgctxt "Languages::vendor_communication.message_center_name"
+msgid "Message center"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.message_center_name_menu_description"
+msgid "Messages from customers"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.message_center_menu_description"
+msgid "Customer-to-vendor messages"
+msgstr "Μηνύματα πελάτη-πωλητή"
+
+msgctxt "Languages::vendor_communication.author"
+msgid "Author"
+msgstr "Συγγραφέας"
+
+msgctxt "Languages::vendor_communication.date"
+msgid "Date"
+msgstr "Ημ/νία"
+
+msgctxt "Languages::vendor_communication.message"
+msgid "Message"
+msgstr "Μήνυμα"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "Επικοινωνήστε με τον πωλητη"
+
+msgctxt "Languages::vendor_communication.ask_a_question"
+msgid "Ask a question"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.contact_vendor_name"
+msgid "Contact [vendor_name]"
+msgstr "Επικοινωνηστε με [vendor_name]"
+
+msgctxt "Languages::vendor_communication.created_at"
+msgid "Created on"
+msgstr "Δημιουργήθηκε"
+
+msgctxt "Languages::vendor_communication.new_thread_created"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>The vendor's reply will be sent to the email address of your account. To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "Το μήνυμά σας έχει σταλεί στον <b> [vendor_name] </ b>. <br/> <br/> Η απάντηση του πωλητή θα σταλεί στη διεύθυνση ηλεκτρονικού ταχυδρομείου του λογαριασμού σας. Για να δείτε το ιστορικό μηνυμάτων σας, <a href=\"[thread_url]\"> μεταβείτε στο Κέντρο μηνυμάτων </a> που βρίσκεται στην ενότητα \"Μηνύματα\" του μενού \"Ο λογαριασμός μου\"."
+
+msgctxt "Languages::vendor_communication.message_sent"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>We'll notify you about a reply. To view your message history, please <a href=\"[thread_url]\" target=\"_blank\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr ""
+
+msgctxt "Languages::vendor_communication.cannot_update_thread"
+msgid "Cannot update thread"
+msgstr "Δεν ειναι δυνατον να ενημερωθει το θεμα"
+
+msgctxt "Languages::vendor_communication.cannot_create_thread"
+msgid "Cannot create thread"
+msgstr "Δεν ειναι δυνατον να δημιουργηθει το θεμα"
+
+msgctxt "Languages::email_template.vendor_communication.notify_admin"
+msgid "Ask seller a question: Admin Notification"
+msgstr ""
+
+msgctxt "Languages::email_template.vendor_communication.notify_customer"
+msgid "Ask seller a question: Customer Notification"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.you_have_new_message"
+msgid "You have a new <a href=\"[thread_url]\">message</a> from [message_from]."
+msgstr "Έχετε ένα νέο <a href=\"[thread_url]\"> μήνυμα </a> από το [message_from]."
+
+msgctxt "Languages::vendor_communication.subject_email"
+msgid "You have a new message from [message_from]"
+msgstr "Έχετε ένα νέο μήνυμα από το [message_from]"
+
+msgctxt "Languages::vendor_communication.thread"
+msgid "Thread #[thread_id]"
+msgstr "Θεμα #[thread_id]"
+
+msgctxt "Languages::vendor_communication.contact_with"
+msgid "#[thread_id]. Communication with [thread_company]"
+msgstr "#[thread_id]. Επικοινωνία με το [thread_company]"
+
+msgctxt "Languages::vendor_communication.ticket"
+msgid "Thread"
+msgstr "Θεμα"
+
+msgctxt "Languages::vendor_communication.no_messages_found"
+msgid "No messages found"
+msgstr "Δεν βρεθηκαν μηνυματα"
+
+msgctxt "Languages::vendor_communication.customer_name"
+msgid "Customer name"
+msgstr "Ονομα πελάτη"
+
+msgctxt "Languages::vendor_communication.error_message"
+msgid "Please enter your message"
+msgstr "Παρακαλουμε εοσαγετε το μηνυμα σας"
+
+msgctxt "Languages::vendor_communication.type_message"
+msgid "Type a message..."
+msgstr "Πληκτρολογηστε ενα μηνυμα"
+
+msgctxt "Languages::vendor_communication.you"
+msgid "You"
+msgstr "Εσεις"
+
+msgctxt "Languages::vendor_communication.thread_deleted"
+msgid "Thread has been deleted"
+msgstr "Αυτο το θεμα έχει διαγραφεί"
+
+msgctxt "Languages::vendor_communication.threads_deleted"
+msgid "Threads have been deleted"
+msgstr "Αυτα τα θεματα έχουν διαγραφεί"
+
+msgctxt "Languages::vendor_communication.cannot_delete_thread"
+msgid "Cannot delete thread"
+msgstr "Δεν ειναι δυνατον να διαγραφει το θεμα"
+
+msgctxt "Languages::vendor_communication.cannot_delete_threads"
+msgid "Cannot delete threads"
+msgstr "Δεν ειναι δυνατον να διαγραφουν τα θεματα"
+
+msgctxt "Languages::vendor_communication.cannot_post_message"
+msgid "Cannot post message"
+msgstr "Δεν είναι δυνατή η δημοσίευση μηνύματος"
+
+msgctxt "Languages::vendor_communication.no_threads_found"
+msgid "No threads found"
+msgstr "Δεν βρεθηκαν θεματα"
+
+msgctxt "Languages::vendor_communication.required_field_is_missing"
+msgid "The [field_name] field is required"
+msgstr "Το πεδίο [field_name] είναι υποχρεωτικό"
+
+msgctxt "Languages::vendor_communication.invalid_thread_object_type"
+msgid "Provided thread object type is invalid"
+msgstr "Ο εισαγμενος τύπος αντικειμένου θεματος δεν είναι έγκυρος"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_contact_vendor"
+msgid "Please sign in to contact the vendor"
+msgstr "Συνδεθείτε για να επικοινωνήσετε με τον προμηθευτή"
+
+msgctxt "Languages::privileges.manage_vendor_communication"
+msgid "Can edit"
+msgstr "Δυνατότητα Επεξεργασίας"
+
+msgctxt "Languages::privileges.view_vendor_communication"
+msgid "Can view"
+msgstr "Δυνατότητα Προβολής"
+
+msgctxt "Languages::privilege_groups.vendor_communication"
+msgid "Message center"
+msgstr "Κέντρο μηνυμάτων"
+
+msgctxt "Languages::vendor_communication.your_message_to_vendor_name"
+msgid "Your message to [vendor_name]"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.please_log_in_to_be_notified"
+msgid "Please sign in so that we can notify you about a reply"
+msgstr ""
+
+msgctxt "Languages::vendor_communication"
+msgid "Ask seller a question"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.event.message_received.name"
+msgid "New message received"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.new_message.title"
+msgid "[company_name] has a new message from [customer]"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.new_message.message"
+msgid "Click this notification to see the message"
+msgstr ""
+

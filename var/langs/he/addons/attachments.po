@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.11.3/addons/attachments.po\n"
+"PO-Revision-Date: 2020-02-04 07:12\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "קבצים מצורפים"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "מאפשרת לך לצרף קבצים להודעות מוצרים"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "קבצים מצורפים"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "נספח חדש"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "הוסף קובץ מצורף"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "עריכת קובץ מצורף"
+

@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.11.3/addons/help_tutorial.po\n"
+"PO-Revision-Date: 2020-02-04 07:12\n"
+
+msgctxt "Addons::name::help_tutorial"
+msgid "Video tutorials"
+msgstr "הדרכות וידאו"
+
+msgctxt "Addons::description::help_tutorial"
+msgid "Enables on-site video tutorials in the admin panel"
+msgstr "מאפשרת הדרכות וידאו בפאנל של מנהל האתר"
+
+msgctxt "Languages::help_tutorial.need_help"
+msgid "Need help?"
+msgstr "צריך עזרה?"
+
+msgctxt "Languages::help_tutorial.videos_show"
+msgid "See all the tutorials on CS-Cart"
+msgstr "ראה את כל הדרכות ב- CS-Cart"
+
+msgctxt "Languages::help_tutorial.need_help_button"
+msgid "See how it works"
+msgstr "תראו איך זה עובד"
+
